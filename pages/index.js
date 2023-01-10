@@ -105,7 +105,7 @@ export default function Home() {
                 <h3 className="text-xl text-blue-200">Neural Style Transfer</h3>
                 <Image
                   className="py-5"
-                  src="/public/neuralstyletransfer.png"
+                  src="/neuralstyletransfer.png"
                   alt="Neural Style Transfer Preview Image"
                   width={500}
                   height={500}
