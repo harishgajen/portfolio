@@ -67,7 +67,7 @@ export default function Home() {
                 <h3 className="text-xl text-blue-200">EmotiChat</h3>
                 <Image
                   className="py-5"
-                  src="/../public/emotichat.png"
+                  src="/emotichat.png"
                   alt="EmotiChat Preview Image"
                   width={500}
                   height={500}
@@ -102,7 +102,7 @@ export default function Home() {
                 <h3 className="text-xl text-blue-200">Neural Style Transfer</h3>
                 <Image
                   className="py-5"
-                  src="/../public/neuralstyletransfer.png"
+                  src="/public/neuralstyletransfer.png"
                   alt="Neural Style Transfer Preview Image"
                   width={500}
                   height={500}
@@ -135,7 +135,7 @@ export default function Home() {
                 <h3 className="text-xl text-blue-200">Portfolio Website</h3>
                 <Image
                   className="py-5"
-                  src="/../public/portfolio.png"
+                  src="/portfolio.png"
                   alt="Portfolio Website Preview Image"
                   width={500}
                   height={500}
