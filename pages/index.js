@@ -49,6 +49,7 @@ export default function Home() {
             <a
               href="https://www.linkedin.com/in/harishuth/"
               target="_blank"
+              rel="noreferrer"
               className="mx-3 text-blue-300 hover:text-blue-400 cursor-pointer"
             >
               <IoLogoLinkedin />
@@ -108,7 +109,7 @@ export default function Home() {
                   height={500}
                 />
                 <p className="text-white">
-                  Transfer the artistic style from one image to another.{' '}
+                  Transfer the artistic style from one image to another.
                   <br></br>
                   React, Express, Node, Tensorflow, Python
                 </p>
