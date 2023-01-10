@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Harish's Portfolio</title>
+        <title>Harish&apos;s Portfolio</title>
         <meta name="description" content="Harish's Portfolio Website" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
@@ -14,7 +14,9 @@ export default function Home() {
       <main className="bg-gray-900 px-7">
         <section className="min-h-screen">
           <nav className="p-8 mb-10 flex justify-between">
-            <h1 className="text-white font-moderne pt-2">Harish's Portfolio</h1>
+            <h1 className="text-white font-moderne pt-2">
+              Harish&apos;s Portfolio
+            </h1>
             <ul className="flex items-center">
               <li className="cursor-pointer mx-2">
                 <a className="text-white bg-blue-400 hover:bg-blue-500 px-2 py-2 rounded-md">
@@ -41,7 +43,7 @@ export default function Home() {
               Software Developer and Computer Science Student
             </h3>
             <p className="text-lg max-w-xl mx-auto text-white pt-5">
-              I'm a computer science student with a passion for software
+              I&apos;m a computer science student with a passion for software
               development. Learn more about me and my work below!
             </p>
           </div>
