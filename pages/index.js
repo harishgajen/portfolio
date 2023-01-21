@@ -213,7 +213,7 @@ export default function Home() {
                 <ul className="flex justify-center mt-7">
                   <li className="cursor-pointer mx-2">
                     <a
-                      href="https://bytekode.org/"
+                      href="https://github.com/harishgajen/supermariobros"
                       className="text-white bg-blue-400 hover:bg-blue-500 px-2 py-2 rounded-md"
                     >
                       GitHub
