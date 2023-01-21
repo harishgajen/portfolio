@@ -17,7 +17,7 @@ export default function Home() {
             <h1 className="text-white font-moderne pt-2">
               Harish&apos;s Portfolio
             </h1>
-            <ul className="flex items-center">
+            {/* <ul className="flex items-center">
               <li className="cursor-pointer mx-2">
                 <a className="text-white bg-blue-400 hover:bg-blue-500 px-2 py-2 rounded-md">
                   Projects
@@ -33,7 +33,7 @@ export default function Home() {
                   Resume
                 </a>
               </li>
-            </ul>
+            </ul> */}
           </nav>
           <div className="text-white text-center p-10">
             <h2 className="font-bold font-moderne text-5xl text-blue-300">
@@ -85,7 +85,7 @@ export default function Home() {
                 <ul className="flex justify-center mt-7">
                   <li className="cursor-pointer mx-2">
                     <a
-                      href="https://bytekode.org/"
+                      href="https://emotichat.netlify.app/"
                       className="text-white bg-blue-400 hover:bg-blue-500 px-2 py-2 rounded-md"
                     >
                       Website
@@ -93,7 +93,7 @@ export default function Home() {
                   </li>
                   <li className="cursor-pointer mx-2">
                     <a
-                      href="https://bytekodehackathon.devpost.com/?ref_feature=challenge&ref_medium=discover"
+                      href="https://github.com/harishgajen/emotichat"
                       className="text-white bg-blue-400 hover:bg-blue-500 px-2 py-2 rounded-md"
                     >
                       GitHub
@@ -118,15 +118,7 @@ export default function Home() {
                 <ul className="flex justify-center mt-7">
                   <li className="cursor-pointer mx-2">
                     <a
-                      href="https://bytekode.org/"
-                      className="text-white bg-blue-400 hover:bg-blue-500 px-2 py-2 rounded-md"
-                    >
-                      Website
-                    </a>
-                  </li>
-                  <li className="cursor-pointer mx-2">
-                    <a
-                      href="https://bytekodehackathon.devpost.com/?ref_feature=challenge&ref_medium=discover"
+                      href="https://github.com/harishgajen/neuralstyletransfer"
                       className="text-white bg-blue-400 hover:bg-blue-500 px-2 py-2 rounded-md"
                     >
                       Github
@@ -151,7 +143,7 @@ export default function Home() {
                 <ul className="flex justify-center mt-7">
                   <li className="cursor-pointer mx-2">
                     <a
-                      href="https://bytekode.org/"
+                      href="https://harishuth-portfolio.vercel.app/"
                       className="text-white bg-blue-400 hover:bg-blue-500 px-2 py-2 rounded-md"
                     >
                       Website
@@ -159,7 +151,7 @@ export default function Home() {
                   </li>
                   <li className="cursor-pointer mx-2">
                     <a
-                      href="https://bytekodehackathon.devpost.com/?ref_feature=challenge&ref_medium=discover"
+                      href="https://github.com/harishgajen/portfolio"
                       className="text-white bg-blue-400 hover:bg-blue-500 px-2 py-2 rounded-md"
                     >
                       Github
@@ -203,7 +195,7 @@ export default function Home() {
                 <ul className="flex justify-center mt-7">
                   <li className="cursor-pointer mx-2">
                     <a
-                      href="https://bytekodehackathon.devpost.com/?ref_feature=challenge&ref_medium=discover"
+                      href="https://github.com/harishgajen/bert-vs-logistic-regression"
                       className="text-white bg-blue-400 hover:bg-blue-500 px-2 py-2 rounded-md"
                     >
                       GitHub
